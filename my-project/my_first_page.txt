@@ -1,0 +1,26 @@
+<!docktype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>My project</title>
+
+
+</head>
+<body>
+
+<h1>Hi everyone, This is The lion<h1> <br>
+<img src="images/lion.jpg" alt="Lion" width="500" height="600">
+
+<h1>The animal kingdom</h1>
+
+<p>The lion is a superior and is respectable in the wild, called the king</p>
+
+
+
+
+
+</body>
+
+</html>
+
+<a href="https://buas.nl">Visit the buas website to learn more about this!</a>
